@@ -1,2 +1,2 @@
-# repositorio_del_ayudante
-En este repositorio podrás encontrar material de ayuda para el ramo.
+# repositorio_del_ramo
+En este repositorio podrás encontrar y hacer entrega de los encargos del ramo, además de obtener el material de apoyo correspondiente.
