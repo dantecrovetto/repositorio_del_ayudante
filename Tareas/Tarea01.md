@@ -1,9 +1,11 @@
 Tarea 01
-Cada alumno individualmente debe escribir un programa que muestre un icono único, utilizando líneas, puntos y rectángulos. Para así ponerlos como Avatar en su cuenta GitHub.
+Cada alumno individualmente debe escribir un programa que muestre un icono Ãºnico, utilizando lÃ­neas, puntos y rectÃ¡ngulos. Para asÃ­ ponerlos como Avatar en su cuenta GitHub.
 
 El encargo debe contar con los siguientes aspectos:
--	Al inicio del programa deben señalar el nombre del estudiante más el nombre del ramo más una pequeña descripción de lo que visualizaremos.
--	Cada línea debe ir correctamente comentada con una pequeña frase explicativa.
--	Si se utiliza documentación externa deben señalar el sitio fuente y el extracto del código utilizado.
+-	Al inicio del programa deben seÃ±alar el nombre del estudiante mÃ¡s el nombre del ramo mÃ¡s una pequeÃ±a descripciÃ³n de lo que visualizaremos.
+-	Cada lÃ­nea debe ir correctamente comentada con una pequeÃ±a frase explicativa.
+-	Si se utiliza documentaciÃ³n externa deben seÃ±alar el sitio fuente y el extracto del cÃ³digo utilizado.
 
-El pull request con la tarea debe ser subido antes de las 00:00:00 del día x.x.2017. 
+El pull request con la tarea debe ser subido antes de las 00:00:00 del dÃ­a x.x.2017. 
+
+En la ventana Wiki podrÃ¡n encontrar el material de apoyo correspondiente a la clase 01.
