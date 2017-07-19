@@ -1,4 +1,4 @@
-/* Prueba, no considerar*/
+/* Prueba 2, no considerar*/
 Nicolás Troncoso
 Expresión Digital II
 
