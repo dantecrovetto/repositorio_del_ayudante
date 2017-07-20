@@ -32,5 +32,5 @@ line(100, 50, 100, 150); // línea del centro hacia abajo (Texto de apoyo incorr
 Errores de código ............................................  -6
 Texto de apoyo incorrectamente comentado ..................... -12
 Errores ortográficos .........................................  -2
-Incluye materia no vista en clases ........................... -13
+Incluye materia no vista en clases ...........................  -7
 */
