@@ -10,7 +10,7 @@ size (177, 177); // Código -2
 
 void draw() { // No agrega el void draw. No todo el contenido pasado en la clase será repetido en el material de apoyo, por algo es "Material de apoyo", es necesario prestar atención durante la clase. Código -4
 stroke(127); // grosor de línea (Error de sintaxis -2, materia no vista en clases -1, color de línea, no grosor de línea. Texto de apoyo incorrectamente comentado -1)
-rect(25, 25, 150, 150); // rectángulo que inscribe las figuras Error de sintaxis -3, ortografía -1 (Rectángulo))
+rect(25, 25, 150, 150); // rectángulo que inscribe las figuras (Error de sintaxis -3, ortografía -1 (Rectángulo))
 
 stroke(55); // línea negra (Error de sintaxis -4, materia no vista en clases -2, ortografía -2 (Línea))
 strokeWeight(50); // grosor de línea (Error de sintaxis -5, materia no vista en clases -3)
