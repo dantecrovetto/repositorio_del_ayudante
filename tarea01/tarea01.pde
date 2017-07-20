@@ -14,7 +14,7 @@ rect(25, 25, 150, 150); // rectángulo que inscribe las figuras Error de sintaxi
 
 stroke(55); // línea negra (Error de sintaxis -4, materia no vista en clases -2, ortografía -2 (Línea))
 strokeWeight(50); // grosor de línea (Error de sintaxis -5, materia no vista en clases -3)
-point(100, 150); // punto arriba al centro (Error de sintaxiso -6)
+point(100, 150); // punto arriba al centro (Error de sintaxis -6)
 
 
 strokeWeight(1); // grosor de línea (Error de sintaxis -7, materia no vista en clases -4)
@@ -25,7 +25,7 @@ stroke(0); // color de línea negro (Error de sintaxis -10, materia no vista en 
 strokeWeight(3); // Grosor de línea (Error de sintaxis -11, materia no vista en clases -7)
 line(100, 50, 100, 150); // línea del centro hacia abajo (Error de sintaxis -12)
 
-} // No cierra el void draw, código -6
+} // No cierra el void draw, código -5
 
 
 /*
